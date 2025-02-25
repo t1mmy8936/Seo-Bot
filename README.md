@@ -1,1 +1,3 @@
-Run Npm Install and create a folder called seo_reports 
+Run Npm Install 
+
+then node seo-crawler.bot.js
